@@ -18,7 +18,21 @@
     <artifactId>selenium-java</artifactId>
     <version>4.7.2</version>
 </dependency>
- </dependencies>
+<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.7.1</version>
+    <scope>test</scope>
+</dependency>
+
+   	<dependency>
+   		<groupId>MyFirstTestNG</groupId>
+   		<artifactId>MyFirstTestNG</artifactId>
+   		<version>0.0.1-SNAPSHOT</version>
+   	</dependency>
+   </dependencies>
+ 
   
   
   </project>
